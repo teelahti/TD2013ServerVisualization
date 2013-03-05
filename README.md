@@ -20,5 +20,3 @@ Meaningful code can be found from
 - Visualization/CounterChart.js: D3.js usage
 - VisualizationConsole/Program.cs: demonstrates how generic .NET client can be used to connect the SignalR hub
 
------
-Copyright 2013 Tero Teelahti.
